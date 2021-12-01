@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\bin\Debug\net5.0\Stibog.exe
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\bin\Debug\net5.0\Stibog.deps.json
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\bin\Debug\net5.0\Stibog.runtimeconfig.json
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\bin\Debug\net5.0\Stibog.runtimeconfig.dev.json
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\bin\Debug\net5.0\Stibog.dll
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\bin\Debug\net5.0\ref\Stibog.dll
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\bin\Debug\net5.0\Stibog.pdb
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\obj\Debug\net5.0\Stibog.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\obj\Debug\net5.0\Stibog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\obj\Debug\net5.0\Stibog.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\obj\Debug\net5.0\Stibog.AssemblyInfo.cs
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\obj\Debug\net5.0\Stibog.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\obj\Debug\net5.0\Stibog.dll
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\obj\Debug\net5.0\ref\Stibog.dll
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\obj\Debug\net5.0\Stibog.pdb
+C:\Users\User\Desktop\Study\study\University\4 курс\Криптография\Stibog\Stibog\obj\Debug\net5.0\Stibog.genruntimeconfig.cache
